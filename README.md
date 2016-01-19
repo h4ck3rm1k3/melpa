@@ -476,7 +476,7 @@ format.
 
  Note that these scripts require an Emacs with `package.el` installed,
  such as Emacs 24. If you have an older version of Emacs, you can get a
- suitable `package.el` [here](http://bit.ly/pkg-el23).
+ suitable `package.el` [here](http://git.savannah.gnu.org/gitweb/?p=emacs.git;a=blob_plain;hb=ba08b24186711eaeb3748f3d1f23e2c2d9ed0d09;f=lisp/emacs-lisp/package.el).
 
 [melpa]: https://melpa.org
 
